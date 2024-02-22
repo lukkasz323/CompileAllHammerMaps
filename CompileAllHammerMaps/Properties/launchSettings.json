@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CompileAllHammerMaps": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\JACK D:\\JACK\\MAPS\\Revenge D:\\Steam\\steamapps\\common\\Half-Life\\revenge\\maps \"-wadautodetect -cliptype precise\" \"-viewportal\" \"-full\" \"\""
+    }
+  }
+}
