@@ -7,4 +7,4 @@ Only JACK editor supported by default.
 
 Empty arguments should be left as "".
 
-Arguments example: https://github.com/lukkasz323/CompileAllHammerMaps/blob/0bff17294bba5352409574033dc771ce36e32af2/CompileAllHammerMaps/Properties/launchSettings.json
+Arguments example (in Visual Studio): https://github.com/lukkasz323/CompileAllHammerMaps/blob/0bff17294bba5352409574033dc771ce36e32af2/CompileAllHammerMaps/Properties/launchSettings.json
